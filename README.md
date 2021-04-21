@@ -15,9 +15,9 @@ In 2019, the *Codenames AI Competition* was organized. It consisted in confronti
 
 # Main files
 
-`NOMDUPDF` is a short summary of this project.
+`Projet_NLP_ENSAE.pdf` is a short summary of this project.
 
-`Project_NLP_ENSAE.ipynb` gives greater details about our work and results.
+`Projet_NLP_ENSAE.ipynb` gives greater details about our work and results. It is also available on [colab](https://colab.research.google.com/drive/1j3SJuoHfmnpGLrOpxjtT9wj2ne_SPiCw?usp=sharing).
 
 `players/` folder contains source code used for our bots.
 
