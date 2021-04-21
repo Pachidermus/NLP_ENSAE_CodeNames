@@ -8,7 +8,7 @@
 
 Games are increasingly used as fields to apply Natural Language Processing techniques. *Codenames* is a popular Czech board game which is based on similarity between words. Two teams compete, each team having one "codemaster" and one or several guessers. 25 words (codename tiles) are placed on the table. The role of the guessers is to guess their team’s words, while avoiding the words belonging to the other team, to the assassin or to civilian squares. The guessers guess their words based on single-word clues given by the spymaster. 
 
-In 2019, the *Codenames AI Competition* was organized. It consisted in confronting different types of codemasters and guessers bots to find the combination of players with the best victory rate. Therefore, using this competition as an inspiration, this project aims at creating a bot which can play this game, either as an guesser or as the codemaster.
+In 2019, the *Codenames AI Competition* was organized. It consisted in confronting different types of codemasters and guessers bots to find the combination of players with the best victory rate. Therefore, using this competition as an inspiration, this project aims at creating a bot which can play this game, either as a guesser or as the codemaster.
 
 
 <img src="pictures/codenames.png" width="500" height="600">
